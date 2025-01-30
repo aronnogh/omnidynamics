@@ -4,9 +4,9 @@ const CompanyLogos = ({ className }) => {
   return (
     <div className={className}>
       <h5 className="tagline mb-6 text-center text-n-1/50">
-        Helping people create beautiful content at
+      OmniDynamics is a leading technology firm based in Bhubaneswar, Odisha, India. We are dedicated to pushing the boundaries of technological innovation and creating impactful solutions for exploration and mobility.
       </h5>
-      <ul className="flex">
+      {/* <ul className="flex">
         {companyLogos.map((logo, index) => (
           <li
             className="flex items-center justify-center flex-1 h-[8.5rem]"
@@ -15,7 +15,7 @@ const CompanyLogos = ({ className }) => {
             <img src={logo} width={134} height={28} alt={logo} />
           </li>
         ))}
-      </ul>
+      </ul> */}
     </div>
   );
 };
