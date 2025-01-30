@@ -20,7 +20,7 @@ const PricingList = () => {
             {item.price && (
               <>
                 <div className="h3 font-bold">₹</div>
-                <div className="text-[5.5rem] leading-none font-bold">
+                <div className="text-[3.5rem] leading-none font-bold">
                   {item.price}
                 </div>
               </>
@@ -29,7 +29,7 @@ const PricingList = () => {
 
           <Button
             className="w-full mb-6"
-            href={item.price ? "/pricing" : "mailto:contact@jsmastery.pro"}
+            href={item.price ? "#pricing" : "#contact-us"}
             white={!!item.price}
           >
             {item.price ? "Get started" : "Contact us"}

@@ -25,7 +25,7 @@ const Hero = () => {
           <h1 className="h1 mb-6">
             Explore the Possibilities of&nbsp;AI&nbsp;Chatting with {` `}
             <span className="inline-block relative">
-              Omnidynamics{" "}
+            Omnidynamics{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           At OmniDynamics, we specialize in designing and prototyping cutting-edge drones, autonomous vehicles, and rovers. Our innovative solutions are tailored for exploration, mapping, and futuristic mobility.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#pricing" white>
             Get started
           </Button>
         </div>
@@ -71,7 +71,7 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="Code generation"
+                    title="Robotics..."
                   />
                 </ScrollParallax>
               </div>

@@ -42,7 +42,7 @@ const Collaboration = () => {
                     src={brainwaveSymbol}
                     width={48}
                     height={48}
-                    alt="brainwave"
+                    alt="Omnidynamics"
                   />
                 </div>
               </div>

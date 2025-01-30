@@ -55,24 +55,12 @@ export const navigation = [
   {
     id: "3",
     title: "Team",
-    url: "#how-to-use",
+    url: "#team",
   },
   {
     id: "4",
     title: "conatct us ",
-    url: "#roadmap",
-  },
-  {
-    id: "5",
-    itle: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "6",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
+    url: "#contact-us",
   },
 ];
 
@@ -207,7 +195,7 @@ export const collabText =
       id: "0",
       title: "Basic",
       description: "Entry-level access to AI-driven mobility and exploration tools",
-      price: "10,000",
+      // price: "10,000",
       features: [
         "Basic drone design and prototyping tools",
         "Limited access to autonomous vehicle development insights",
@@ -218,7 +206,7 @@ export const collabText =
       id: "1",
       title: "Premium",
       description: "Advanced AI-driven solutions for mobility and mapping",
-      price: "40,000",
+      // price: "40,000",
       features: [
         "Advanced autonomous vehicle development capabilities",
         "Enhanced rover engineering solutions for mapping",
