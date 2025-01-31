@@ -3,7 +3,7 @@
     {
         "id":1,
         "name": "SOURISH DEY",
-        "designation": "Operation Team Lead,Associate Marketing Head , Associate Research Head ",
+        "designation": "CTO,Co-Founder",
         "desigInBranch": "Computer Science Engineering",
         "of": "KIIT University",
         "img": "/teamLeads/OL.jpg",
@@ -13,7 +13,7 @@
     {
         "id":2,
         "name": "Koushik Paul",
-        "designation": "Vice-President, Markating head ,Patent Lead(Markating), Head of Research",
+        "designation": "CEO ,Founder",
         "desigInBranch": "Mechanical Engineering",
         "of": "KIIT University",
         "img": "/teamLeads/vp.jpg",
@@ -23,7 +23,7 @@
     {
         "id":3,
         "name": "RAJ SAURAV PARIDA",
-        "designation": "Patent Head,Secretary",
+        "designation": "ATO",
         "desigInBranch": "Mechanical Engineering",
         "of": "KIIT University",
         "img": "/teamLeads/secretary.jpg",
