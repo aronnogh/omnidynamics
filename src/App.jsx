@@ -1,4 +1,5 @@
 import ButtonGradient from "./assets/svg/ButtonGradient";
+import AFooter from "./components/AFooter";
 import Benefits from "./components/Benefits";
 import Collaboration from "./components/Collaboration";
 import Contact from "./components/Contact";
@@ -24,6 +25,7 @@ const App = () => {
         {/* <Roadmap /> */}
         <Contact />
         <Footer />
+        <AFooter />
       </div>
 
       <ButtonGradient />
